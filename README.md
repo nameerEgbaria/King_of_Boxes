@@ -8,3 +8,7 @@ We discussed the game idea with a lecturer and received approval to proceed with
 #### Nameer: 8 Hours.
 
 ## Week 2:
+We have started learning about Unity and how to use it, and now we know how to start and design in Unity.
+### Total Hours:
+#### Marah: 8 Hours.
+#### Nameer: 8 Hours.
